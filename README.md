@@ -39,7 +39,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
    No es necesario instalar ninguna dependencia externa. Simplemente abre el archivo index.html en tu navegador para empezar a usar la aplicación.
 
-##Uso
+## Uso
 
    Ingresa los nombres de tus amigos en el campo de texto.
    Haz clic en Añadir para agregar los nombres a la lista de amigos.
