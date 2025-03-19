@@ -31,15 +31,16 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
    git clone https://github.com/AntonioLr7/challenge-amigo-secreto.git
 2. **Abrir el proyecto**:
 
-Después de clonar el repositorio, navega a la carpeta del proyecto:
+   Después de clonar el repositorio, navega a la carpeta del proyecto:
 
-cd challenge-amigo-secreto
+   cd challenge-amigo-secreto
 
-Abrir el proyecto en tu navegador:
+3. **Abrir el proyecto en tu navegador**:
 
-No es necesario instalar ninguna dependencia externa. Simplemente abre el archivo index.html en tu navegador para empezar a usar la aplicación.
+   No es necesario instalar ninguna dependencia externa. Simplemente abre el archivo index.html en tu navegador para empezar a usar la aplicación.
 
-Uso
-Ingresa los nombres de tus amigos en el campo de texto.
-Haz clic en Añadir para agregar los nombres a la lista de amigos.
-Cuando todos los amigos estén añadidos, haz clic en Sortear amigo para ver quién es tu Amigo Secreto.
+##Uso
+
+   Ingresa los nombres de tus amigos en el campo de texto.
+   Haz clic en Añadir para agregar los nombres a la lista de amigos.
+   Cuando todos los amigos estén añadidos, haz clic en Sortear amigo para ver quién es tu Amigo Secreto.
